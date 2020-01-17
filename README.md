@@ -1,5 +1,5 @@
 # Trivia
-A true or false trivia android application built with Java. The app has the following special features:
+A true or false trivia android application built with Java. The app has the following features:
 
 - Uses a free JSON API to obtain a total of 913 trivia questions, as implemented in the [QuestionBank](app/src/main/java/com/example/trivia/data/QuestionBank.java) class.
 - If the user answers correctly, a fade animation is executed and the background colour temporarily switches to green.
