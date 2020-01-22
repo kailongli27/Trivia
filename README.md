@@ -17,5 +17,5 @@ A true or false trivia android application built with Java. The app has the foll
 ### Demonstration of Application
 
 <p align="center">
-      <img src="https://github.com/kailongli27/Trivia/blob/master/app_recording.gif" width="350" height="600" title = "AppRecording">
+      <img src="https://github.com/kailongli27/Trivia/blob/master/demonstration.gif" width="350" height="650" title = "AppRecording">
 </p
