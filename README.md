@@ -11,7 +11,7 @@ A true or false trivia android application built with Java. The app has the foll
 
 ### Important Files
 
-- [Layout File for this Application](app/src/main/res/layout/activity_main.xml)
+- [Application Layout File](app/src/main/res/layout/activity_main.xml)
 - [Main Activity File](app/src/main/java/com/example/trivia/MainActivity.java): many of the special features mentioned above are directly implemented in this class.
 
 ### Demonstration of Application
